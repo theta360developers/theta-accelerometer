@@ -1,26 +1,14 @@
-# Smart Car Forensics Cam
-
-![car crash diagram](images/car-crash.jpeg)
+# THETA Accelerometer
 
 This code was modified from a project by [KAZ](https://twitter.com/yokazuya_jp).
 [Original article in Japanese](https://qiita.com/yokazuya/items/f36e5a2252bf32b0c18b).
 
-## Usage
+Access the internal accelerometer and magnetic field (eCompass) sensor of the THETA
 
-### Secure THETA to Dash
+Use sensor data in a creative way to take a picture
 
-Mount THETA with rear lens facing window.  Shutter button should be facing driver.
+Example: animal photo trap, dog door security, commercial vehicle dash cam, party “fun” cam to take pictures of you and your friends when you jump in the air
 
-![THETA Mount](images/cam-mount.jpeg)
 
-### Use Extension
-
-using a 1/4" by 20 tpi adapter to allow access to the USB port of the camera.
-
-![THETA Extension](images/extension.png)
-
-### Apply USB Power
-
-Plug the USB cord into your vehicle using a USB adapter.
 
 
